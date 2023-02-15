@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
+                "file": "openSUSE/tumbleweed/GitHub Desktop (Shiftkey).md",
                 "mode": "source",
                 "source": false
               }
@@ -56,12 +56,24 @@
             }
           },
           {
+            "id": "c8386fb44785558f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "openSUSE/Tumbleweed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "df6a3629e4ae9015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
+                "file": "openSUSE/tumbleweed/NVIDIA (Proprietary drivers).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "openSUSE/Tumbleweed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "openSUSE/Tumbleweed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "openSUSE/Tumbleweed.md"
               }
             }
           }
@@ -223,16 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81071a5f40c462e1",
+  "active": "c8386fb44785558f",
   "lastOpenFiles": [
-    "openSUSE/Application.md",
-    "openSUSE/Tumbleweed/DaVinci Resolve Audio Delay Fix.md",
-    "openSUSE/Tumbleweed/GIMP.md",
-    "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
-    "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
-    "openSUSE/Tumbleweed/Tor Browser.md",
-    "flatpak/applications.md",
     "README.md",
+    "openSUSE/Application.md",
+    "openSUSE/tumbleweed/DaVinci Resolve Audio Delay Fix.md",
+    "openSUSE/tumbleweed/GIMP.md",
+    "openSUSE/tumbleweed/GitHub Desktop (Shiftkey).md",
+    "openSUSE/tumbleweed/NVIDIA (Proprietary drivers).md",
+    "openSUSE/tumbleweed/Tor Browser.md",
+    "flatpak/applications.md",
     "flatpak/setup.md",
     "Pasted image 20230215095655.png"
   ]
