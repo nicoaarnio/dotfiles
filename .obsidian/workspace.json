@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flatpak/applications.md"
+                "file": "README.md"
               }
             }
           }
@@ -192,8 +192,8 @@
   },
   "active": "2b8b40aa35593137",
   "lastOpenFiles": [
-    "flatpak/setup.md",
     "flatpak/applications.md",
+    "flatpak/setup.md",
     "README.md",
     "Pasted image 20230215095655.png",
     "Pasted image 20230215095231.png",
