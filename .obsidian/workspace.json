@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
+                "file": "openSUSE/Tumbleweed/GitHub_Desktop_(Shiftkey).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
+                "file": "openSUSE/Tumbleweed/NVIDIA_(Proprietary_drivers).md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flatpak/applications.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flatpak/applications.md"
+                "file": "README.md"
               }
             }
           }
@@ -237,15 +237,15 @@
   },
   "active": "c8386fb44785558f",
   "lastOpenFiles": [
-    "flatpak/setup.md",
+    "openSUSE/Tumbleweed/DaVinci_Resolve_Audio_Delay_Fix.md",
     "README.md",
     "openSUSE/Tumbleweed.md",
-    "openSUSE/Application.md",
-    "openSUSE/Tumbleweed/DaVinci Resolve Audio Delay Fix.md",
+    "openSUSE/Tumbleweed/NVIDIA_(Proprietary_drivers).md",
+    "openSUSE/Tumbleweed/Tor_Browser.md",
+    "openSUSE/Tumbleweed/GitHub_Desktop_(Shiftkey).md",
     "openSUSE/Tumbleweed/GIMP.md",
-    "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
-    "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
-    "openSUSE/Tumbleweed/Tor Browser.md",
-    "flatpak/applications.md"
+    "flatpak/applications.md",
+    "flatpak/setup.md",
+    "openSUSE/Application.md"
   ]
 }
