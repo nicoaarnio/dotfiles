@@ -1,4 +1,4 @@
-### ![Discord](/flatpak/icons/16x16/discord.png) Discord
+## ![Discord](/flatpak/icons/16x16/discord.png) Discord
 **Messaging, Voice, and Video Client**
 
 Install:
@@ -14,7 +14,7 @@ flatpak run com.discordapp.Discord
 ```
 <br>
 
-### ![Dropbox](/flatpak/icons/16x16/dropbox.png) Dropbox
+## ![Dropbox](/flatpak/icons/16x16/dropbox.png) Dropbox
 **Access your files from any computer**
 
 Install:
@@ -28,8 +28,9 @@ Run:
 ```
 flatpak run com.dropbox.Client
 ```
+<br>
 
-### ![KeepassXC](/flatpak/icons/16x16/keepassxc.png) KeepassXC
+## ![KeepassXC](/flatpak/icons/16x16/keepassxc.png) KeepassXC
 **Community-driven port of the Windows application “KeePass Password Safe”**
 
 Install:
@@ -43,8 +44,9 @@ Run:
 ```
 flatpak run org.keepassxc.KeePassXC
 ```
+<br>
 
-### ![LMMS](/flatpak/icons/16x16/lmms.png) LMMS
+## ![LMMS](/flatpak/icons/16x16/lmms.png) LMMS
 **A music production application**
 
 Install:
@@ -58,8 +60,9 @@ Run:
 ```
 flatpak run io.lmms.LMMS
 ```
+<br>
 
-### ![MEGAsync](/flatpak/icons/16x16/megasync.png) MEGAsync
+## ![MEGAsync](/flatpak/icons/16x16/megasync.png) MEGAsync
 **Easy automated syncing between your computers and your MEGA Cloud Drive**
 
 Install:
@@ -73,8 +76,9 @@ Run:
 ```
 flatpak run nz.mega.MEGAsync
 ```
+<br>
 
-### ![Mednaffe](/flatpak/icons/16x16/mednaffe.png) Mednaffe
+## ![Mednaffe](/flatpak/icons/16x16/mednaffe.png) Mednaffe
 **A front-end (GUI) for mednafen emulator (included)**
 
 Install:
@@ -88,9 +92,9 @@ Run:
 ```
 flatpak run com.github.AmatCoder.mednaffe
 ```
+<br>
 
-
-### ![OBS Studio](/flatpak/icons/16x16/obs_studio.png) OBS Studio
+## ![OBS Studio](/flatpak/icons/16x16/obs_studio.png) OBS Studio
 **Live streaming and video recording software**
 
 Install:
@@ -104,8 +108,9 @@ Run:
 ```
 flatpak run com.obsproject.Studio
 ```
+<br>
 
-### ![Obsidian](/flatpak/icons/16x16/obsidian.png) Obsidian
+## ![Obsidian](/flatpak/icons/16x16/obsidian.png) Obsidian
 **Markdown-based knowledge base**
 
 Install:
@@ -119,9 +124,9 @@ Run:
 ```
 flatpak run md.obsidian.Obsidian
 ```
+<br>
 
-
-### ![OpenRSC](/flatpak/icons/16x16/openrsc.png) OpenRSC
+## ![OpenRSC](/flatpak/icons/16x16/openrsc.png) OpenRSC
 **Launcher for Open RuneScape Classic Servers**
 
 Install:
@@ -135,8 +140,9 @@ Run:
 ```
 flatpak run vet.rsc.OpenRSC.Launcher
 ```
+<br>
 
-### ![RuneLite](/flatpak/icons/16x16/runelite.png) RuneLite
+## ![RuneLite](/flatpak/icons/16x16/runelite.png) RuneLite
 **RuneLite OSRS Client**
 
 Install:
