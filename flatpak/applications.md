@@ -1,4 +1,4 @@
-## List of my personal used apps
+## List of my personal used flatpaks for easy install
 - [Discord](#-discord)
 - [Dropbox](#-dropbox)
 - [KeepassXC](#-keepassxc)
@@ -9,6 +9,8 @@
 - [Obsidian](#-obsidian)
 - [OpenRSC](#-openrsc)
 - [RuneLite](#-runelite)
+
+*updated 2023.02.01*
 <br>
 
 ## ![Discord](/flatpak/icons/16x16/discord.png) Discord
