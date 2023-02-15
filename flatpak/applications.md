@@ -8,7 +8,9 @@
 - [OBS Studio](#-obs-studio)
 - [Obsidian](#-obsidian)
 - [OpenRSC](#-openrsc)
+- [Prism Launcher](#-prism-launcher)
 - [RuneLite](#-runelite)
+- [WhatsApp Desktop](#-whatsapp-desktop)
 
 *updated 2023.02.01*
 <br>
@@ -156,6 +158,21 @@ Run:
 flatpak run vet.rsc.OpenRSC.Launcher
 ```
 <br>
+## ![Prism Launcher](/flatpak/icons/16x16/prism_launcher.png) Prism Launcher
+**A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once**
+
+Install:
+
+```
+flatpak install flathub org.prismlauncher.PrismLauncher
+```
+
+Run:
+
+```
+flatpak run org.prismlauncher.PrismLauncher
+```
+<br>
 
 ## ![RuneLite](/flatpak/icons/16x16/runelite.png) RuneLite
 **RuneLite OSRS Client**
@@ -171,4 +188,18 @@ Run:
 ```
 flatpak run net.runelite.RuneLite
 ```
+<br>
+## ![WhatsApp Desktop](/flatpak/icons/16x16/whatsapp_desktop.png) WhatsApp Desktop
+**Unofficial WhatsApp Web Desktop client**
 
+Install:
+
+```
+flatpak install flathub io.github.mimbrero.WhatsAppDesktop
+```
+
+Run:
+
+```
+flatpak run io.github.mimbrero.WhatsAppDesktop
+```
