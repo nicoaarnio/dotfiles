@@ -4,5 +4,9 @@
 
 +stuff and things
 
-- [Flatpaks](/flatpak/applications.md)
-- [openSUSE Tumbleweed](/openSUSE/Tumbleweed.md)
+### Flatpaks
+- [Setup](/flatpak/setup.md)
+- [Applications](/flatpak/applications.md)
+
+### openSUSE
+- [Tumbleweed](/openSUSE/Tumbleweed.md)
