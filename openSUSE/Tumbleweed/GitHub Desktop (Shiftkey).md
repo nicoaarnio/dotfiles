@@ -1,6 +1,6 @@
-# [GitHub Desktop - Linux fork](https://github.com/shiftkey/desktop)
+## [GitHub Desktop (Shiftkey)](https://github.com/shiftkey/desktop)
 
-## openSUSE Tumbleweed
+### openSUSE Tumbleweed
 
 First install our GPG certificate:
 
@@ -24,4 +24,10 @@ Then install GitHub Desktop:
 
 ```
 $ sudo zypper ref && sudo zypper in github-desktop
+```
+
+Run:
+
+```
+github-desktop
 ```
