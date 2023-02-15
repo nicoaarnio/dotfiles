@@ -157,7 +157,7 @@ Run:
 flatpak run vet.rsc.OpenRSC.Launcher
 ```
 <br>
-## ![Prism Launcher](/icons/16x16/prism_launcher.png) Prism Launcher
+##  ![Prism Launcher](/flatpak/icons/16x16/prism_launcher.png) Prism Launcher
 **A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once**
 
 Install:
