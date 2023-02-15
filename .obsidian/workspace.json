@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "openSUSE/Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c7f4656f26cd08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My stuff/NVIDIA.md",
+                "file": "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
                 "mode": "source",
                 "source": false
               }
@@ -57,13 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My stuff/Application.md",
+                "file": "openSUSE/Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md"
               }
             }
           }
@@ -190,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b8b40aa35593137",
+  "active": "6c7f4656f26cd08a",
   "lastOpenFiles": [
+    "openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md",
+    "openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md",
+    "openSUSE/Application.md",
     "flatpak/applications.md",
-    "flatpak/setup.md",
     "README.md",
+    "flatpak/setup.md",
     "Pasted image 20230215095655.png",
     "Pasted image 20230215095231.png",
-    "My stuff/Application.md",
     "flatpak/icons/16x16/discord.png",
-    "Untitled.md",
-    "iscord.png.md",
-    "My stuff/NVIDIA.md"
+    "Untitled.md"
   ]
 }
