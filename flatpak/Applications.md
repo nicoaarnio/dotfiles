@@ -1,5 +1,7 @@
+[OBS](#-obs-studio)
+
 ## ![Discord](/flatpak/icons/16x16/discord.png) Discord
-### Messaging, Voice, and Video Client
+**Messaging, Voice, and Video Client**
 
 Install:
 
