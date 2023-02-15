@@ -9,4 +9,8 @@
 - [Applications](/flatpak/applications.md)
 
 ### openSUSE
-- [Tumbleweed](/openSUSE/Tumbleweed.md)
+- [DaVinci Resolve Audio Delay Fix](/openSUSE/Tumbleweed/DaVinci Resolve Audio Delay Fix.md)
+- [GIMP](/openSUSE/Tumbleweed/GIMP.md)
+- [GitHub Desktop](/openSUSE/Tumbleweed/GitHub Desktop (Shiftkey).md)
+- [NVIDIA](/openSUSE/Tumbleweed/NVIDIA (Proprietary drivers).md)
+- [Tor Browser](/openSUSE/Tumbleweed/Tor Browser.md)
