@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "flatpak/Applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flatpak/Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flatpak/Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flatpak/Applications.md"
+              }
             }
           }
         ]
@@ -187,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7d7309b1085585",
+  "active": "2b8b40aa35593137",
   "lastOpenFiles": [
+    "README.md",
     "Pasted image 20230215095655.png",
     "Pasted image 20230215095231.png",
     "My stuff/Application.md",
@@ -196,7 +200,6 @@
     "flatpak/Applications.md",
     "flatpak/icons/16x16/discord.png",
     "Untitled.md",
-    "README.md",
     "iscord.png.md",
     "My stuff/NVIDIA.md"
   ]

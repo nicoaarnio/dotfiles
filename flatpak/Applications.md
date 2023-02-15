@@ -12,6 +12,7 @@ Run:
 ```
 flatpak run com.discordapp.Discord
 ```
+<br>
 
 ### ![Dropbox](/flatpak/icons/16x16/dropbox.png) Dropbox
 **Access your files from any computer**
