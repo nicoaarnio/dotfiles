@@ -1,6 +1,17 @@
-[OBS](#-obs-studio)
+## List of my personal used apps
+[Discord](#-discord)
+[Dropbox](#-dropbox)
+[KeepassXC](#-keepassxc)
+[LMMS](#-lmms)
+[MEGAsync](#-megasync)
+[Mednaffe](#-mednaffe)
+[OBS Studio](#-obs-studio)
+[Obsidian](#-obsidian)
+[OpenRSC](#-openrsc)
+[RuneLite](#-runelite)
+<br>
 
-## ![Discord](/flatpak/icons/16x16/discord.png) Discord
+## ![Discord](/flatpak/icons/16x16/discord.png) Discord[[#-runelite]]
 **Messaging, Voice, and Video Client**
 
 Install:
