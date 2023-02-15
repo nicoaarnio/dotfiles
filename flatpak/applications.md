@@ -11,7 +11,7 @@
 [RuneLite](#-runelite)
 <br>
 
-## ![Discord](/flatpak/icons/16x16/discord.png) Discord[[#-runelite]]
+## ![Discord](/flatpak/icons/16x16/discord.png) Discord
 **Messaging, Voice, and Video Client**
 
 Install:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flatpak/setup.md",
+                "file": "flatpak/applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flatpak/setup.md",
+                "file": "flatpak/applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flatpak/setup.md",
+                "file": "flatpak/applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flatpak/setup.md"
+                "file": "flatpak/applications.md"
               }
             }
           }
@@ -192,12 +192,12 @@
   },
   "active": "2b8b40aa35593137",
   "lastOpenFiles": [
+    "flatpak/setup.md",
     "flatpak/applications.md",
     "README.md",
     "Pasted image 20230215095655.png",
     "Pasted image 20230215095231.png",
     "My stuff/Application.md",
-    "flatpak/setup.md",
     "flatpak/icons/16x16/discord.png",
     "Untitled.md",
     "iscord.png.md",
