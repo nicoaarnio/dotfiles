@@ -11,7 +11,6 @@
 - [Prism Launcher](#-prism-launcher)
 - [RuneLite](#-runelite)
 - [WhatsApp Desktop](#-whatsapp-desktop)
-
 *updated 2023.02.01*
 <br>
 
