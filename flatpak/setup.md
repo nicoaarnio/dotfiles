@@ -5,7 +5,7 @@
 Install Flatpak from the command line using Zypper:
 
 ```
-sudo zypper install flatpak
+$ sudo zypper install flatpak
 ```
 
 ### Add the Flathub repository
