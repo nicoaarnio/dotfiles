@@ -1,5 +1,5 @@
-## ![Discord](/flatpak/icons/32x32/discord.png) Discord
-**Messaging, Voice, and Video Client**
+## ![Discord](/flatpak/icons/16x16/discord.png) Discord
+### Messaging, Voice, and Video Client
 
 Install:
 
