@@ -1,6 +1,6 @@
 ### Install Flatpak
 
-##### openSUSE
+#### openSUSE
 
 Install Flatpak from the command line using Zypper:
 
@@ -19,3 +19,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 ### Restart
 
 To complete setup, restart your system.
+
+```
+$ sudo reboot
+```
