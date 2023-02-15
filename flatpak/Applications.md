@@ -1,4 +1,4 @@
-[OBS Studio](#OBS-Studio)
+[OBS Studio](##obs-tudio)
 
 
 
