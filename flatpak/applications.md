@@ -1,6 +1,7 @@
 ## List of my personal used flatpaks for easy install
 - [Discord](#-discord)
 - [Dropbox](#-dropbox)
+- [Element](#-element)
 - [KeepassXC](#-keepassxc)
 - [LMMS](#-lmms)
 - [MEGAsync](#-megasync)
@@ -44,6 +45,22 @@ Run:
 
 ```
 flatpak run com.dropbox.Client
+```
+<br>
+
+## ![Element](/flatpak/icons/16x16/element.png) Element
+**Create, share, communicate, chat and call securely, and bridge to other apps**
+
+Install:
+
+```
+flatpak install flathub im.riot.Riot
+```
+
+Run:
+
+```
+flatpak run im.riot.Riot
 ```
 <br>
 
