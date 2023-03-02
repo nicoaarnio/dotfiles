@@ -2,6 +2,7 @@
 - [Discord](#-discord)
 - [Dropbox](#-dropbox)
 - [Element](#-element)
+- [FamiStudio](#-famistudio)
 - [KeepassXC](#-keepassxc)
 - [LMMS](#-lmms)
 - [MEGAsync](#-megasync)
@@ -61,6 +62,20 @@ Run:
 
 ```
 flatpak run im.riot.Riot
+```
+<br>
+
+## ![FamiStudio](/flatpak/icons/16x16/famistudio.png) FamiStudio
+**FamiStudio NES Music Editor**
+
+Install
+```
+flatpak install flathub org.famistudio.FamiStudio
+```
+
+Run:
+```
+flatpak run org.famistudio.FamiStudio
 ```
 <br>
 

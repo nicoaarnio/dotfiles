@@ -235,8 +235,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8386fb44785558f",
+  "active": "ab7d7309b1085585",
   "lastOpenFiles": [
+    "flatpak/icons/16x16/famistudio.png",
+    "flatpak/icons/32x32/famistudio.png",
+    "flatpak/icons/64x64/famistudio.png",
+    "flatpak/icons/128x128/famistudio.png",
     "README.md",
     "openSUSE/Tumbleweed/DaVinci_Resolve_Audio_Delay_Fix.md",
     "openSUSE/Tumbleweed.md",
