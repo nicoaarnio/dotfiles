@@ -12,6 +12,7 @@
 - [OpenRSC](#-openrsc)
 - [Prism Launcher](#-prism-launcher)
 - [RuneLite](#-runelite)
+- [Signal Desktop](#-signal-desktop)
 - [WhatsApp Desktop](#-whatsapp-desktop)
 
 *updated 2023.02.01*
@@ -68,7 +69,7 @@ flatpak run im.riot.Riot
 ## ![FamiStudio](/flatpak/icons/16x16/famistudio.png) FamiStudio
 **FamiStudio NES Music Editor**
 
-Install
+Install:
 ```
 flatpak install flathub org.famistudio.FamiStudio
 ```
@@ -220,6 +221,20 @@ Run:
 
 ```
 flatpak run net.runelite.RuneLite
+```
+<br>
+
+## ![Signal Desktop](/flatpak/icons/16x16/signal_desktop.png) Signal Desktop
+**Private messenger**
+
+Install:
+```
+flatpak install flathub org.signal.Signal
+```
+
+Run:
+```
+flatpak run org.signal.Signal
 ```
 <br>
 

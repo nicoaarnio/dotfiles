@@ -235,8 +235,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7d7309b1085585",
+  "active": "c8386fb44785558f",
   "lastOpenFiles": [
+    "flatpak/icons/16x16/signal_desktop.png",
+    "flatpak/icons/32x32/signal_desktop.png",
+    "flatpak/icons/64x64/signal_desktop.png",
+    "flatpak/icons/128x128/signal_desktop.png",
     "flatpak/icons/16x16/famistudio.png",
     "flatpak/icons/32x32/famistudio.png",
     "flatpak/icons/64x64/famistudio.png",
