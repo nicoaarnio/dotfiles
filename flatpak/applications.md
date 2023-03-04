@@ -13,6 +13,7 @@
 - [Prism Launcher](#-prism-launcher)
 - [RuneLite](#-runelite)
 - [Signal Desktop](#-signal-desktop)
+- [Spotify](#-spotify)
 - [WhatsApp Desktop](#-whatsapp-desktop)
 
 *updated 2023.02.01*
@@ -235,6 +236,20 @@ flatpak install flathub org.signal.Signal
 Run:
 ```
 flatpak run org.signal.Signal
+```
+<br>
+
+## ![Spotify](/flatpak/icons/16x16/spotify.png) Spotify
+**Online music streaming service**
+
+Install:
+```
+flatpak install flathub com.spotify.Client
+```
+
+Run:
+```
+flatpak run com.spotify.Client
 ```
 <br>
 
