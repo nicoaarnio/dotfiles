@@ -14,6 +14,7 @@
 - [RuneLite](#-runelite)
 - [Signal Desktop](#-signal-desktop)
 - [Spotify](#-spotify)
+- [Visual Studio Code](#-visual-studio-code)
 - [WhatsApp Desktop](#-whatsapp-desktop)
 
 *updated 2023.02.01*
@@ -250,6 +251,20 @@ flatpak install flathub com.spotify.Client
 Run:
 ```
 flatpak run com.spotify.Client
+```
+<br>
+
+## ![Visual Studio Code](/flatpak/icons/16x16/vscode.png) Visual Studio Code
+**Visual Studio Code. Code editing. Redefined.**
+
+Install:
+```
+flatpak install flathub com.visualstudio.code
+```
+
+Run:
+```
+flatpak run com.visualstudio.code
 ```
 <br>
 
